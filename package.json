@@ -1,0 +1,16 @@
+{
+  "name": "kraken_ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kraken-api": "^1.0.1",
+    "ws": "^8.4.2"
+  }
+}
